@@ -1,0 +1,31 @@
+body{
+    background-image: url("/image/olga-tutunaru-plbb7pkEjkQ-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+ol{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+

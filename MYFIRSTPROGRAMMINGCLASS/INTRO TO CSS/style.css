@@ -1,0 +1,58 @@
+body{
+    background-image: url(/image/olga-tutunaru-plbb7pkEjkQ-unsplash.jpg);
+    background-size: contain;
+    min-height: 100vh;
+    width: 100%;
+}
+
+header{
+    text-align: center;
+    color: green;
+    font-weight: 900;
+    font-size: 25px;
+    text-decoration: underline;
+    padding-bottom: 50px;
+}
+
+div{
+    margin: 50px;
+}
+
+.border{
+    border-top: 10px solid red;
+    border-bottom: 10px solid red;
+    border-right: 10px solid red;
+    border-left: 10px solid red;
+    color: white;
+    font-size: 25px;
+}
+
+.padding{
+    border: 10px solid red;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+    color: green;
+    font-size: 25px;
+} 
+
+#margin{
+    border: 10px solid red;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: blue;
+    font-size: 25px;
+}
+
+.radius{
+    border: 5px solid red;
+    border-radius: 50px;
+    color: brown;
+    font-size: 25px;
+}
+
+
+/* /* STUDY CSS FLEXBOX */

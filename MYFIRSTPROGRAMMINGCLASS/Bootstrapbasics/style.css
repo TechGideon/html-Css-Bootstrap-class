@@ -1,0 +1,124 @@
+body{
+    background-color: darkblue;
+}
+
+
+
+.content{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: 900;
+}
+
+
+img{
+    padding-top: 10px;
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+}
+
+.header{
+    background-color: white;
+    color: black;
+    padding: 0%;
+    display: flex;
+    padding: 10px 10px;
+    }
+    
+    nav img{
+        width: 60px;
+        height: 80px;
+    }
+
+    .content2{
+        padding: 15px;
+        background-color: white;
+        text-align: center;
+    }
+
+    .content2 h2{
+        color: brown;
+        font-weight: 900;
+        font-size: 30px;
+    }
+
+    .container{
+        padding-top: 15px;
+        background-color: transparent;
+    }
+
+    .content{
+padding-top: 100px;
+text-align: center;
+}
+
+
+    .content h2{
+    color: white;
+    font-weight: 900;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    .content p{
+    color: white;
+    font-size: 20px;
+}
+
+    .btn{
+    background-color: rgb(67, 64, 64);
+    padding: 5px 15px;
+    text-decoration: none;
+    color: white;
+}
+
+    
+
+    .content{
+    text-align: center;
+}
+
+    .content h2{
+    color: Black;
+}
+
+    .content h5{
+    color: red;
+    font-size: 20px;
+}
+
+    .content p{
+    color: black;
+}
+
+    .container .body{
+    margin: 50px;
+    display: flex;
+    text-align: center;
+}
+
+    .body .icons{
+    font-size: 25px;
+}
+
+    .icons i{
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+    .body .content1{
+    padding-top: 20px;
+}
+
+    .content3{
+        text-align: center;
+    }
+
+    
+    .searchbutton{
+        align-items: center;
+    }

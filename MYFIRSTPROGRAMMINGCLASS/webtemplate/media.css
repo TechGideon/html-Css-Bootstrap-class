@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+
+}
+
+header{
+    font-size: 35px;
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        background-color: green;
+    
+    }
+    header{
+        width: 100px;
+        font-size: 15px;
+    }
+
+    p{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+}

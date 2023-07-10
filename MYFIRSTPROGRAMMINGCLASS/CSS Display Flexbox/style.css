@@ -1,0 +1,83 @@
+/* .container{
+    background-color: blueviolet;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content works with row while align-items works with column */
+    /* flex-direction: column-reverse;
+    flex-direction: row;
+    flex-direction: row-reverse; */
+    /* justify-content: center;
+    justify-content: start;
+    justify-content: end;
+    align-items: center;
+    align-items: end;
+    align-items: start;
+
+}
+
+.container div{
+    background-color: black;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.sub-header{
+    background-color: red;
+    color: rgb(red, green, blue);
+    padding: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+nav{
+    background-color: aqua;
+    padding: 100px;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+nav ul li{
+    margin: 7px;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}

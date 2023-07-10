@@ -1,0 +1,71 @@
+body{
+    background-image: url(/image/william-thomas-ny6tO4ItOEY-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header{
+color: white;
+padding: 0%;
+display: flex;
+padding: 10px 10px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: end;
+    margin-left: 40rem;
+}
+
+nav ul li{
+    margin: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    padding-top: 14rem;
+}
+
+.btn-group{
+    margin-left: 40%;
+    display: flex;
+    padding: 10px 24px;
+    gap: 20px;
+}
+
+
+.container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    background-color: blue;
+    color: white;
+    text-align: left;
+    padding: 40px;
+    padding: 14rem;
+}
+
+h4{
+    color: white;
+    padding: 0%;
+    display: flex;
+    padding: 10px 10px;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
